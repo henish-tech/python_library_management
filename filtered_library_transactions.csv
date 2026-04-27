@@ -1,0 +1,4 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days),Weekday
+2,2025-01-05,102,AI,AI,10,Sunday
+4,2025-01-12,103,ML,AI,8,Sunday
+6,2025-01-25,102,AI,AI,6,Saturday
